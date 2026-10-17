@@ -1,0 +1,6 @@
+{
+  "name": "JavaScript Saat ve Karşılama - Enes Öztürk",
+  "description": "JavaScript Saat ve Karşılama Ödevi - Dinamik saat, Türkçe karşılama, kronometre, geri sayım ve temalar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
